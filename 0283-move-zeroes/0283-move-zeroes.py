@@ -2,7 +2,7 @@ class Solution:
     def moveZeroes(self, nums: List[int]) -> None:
         pt = 0
         cnt = 0
-        while pt < len(nums):
+        for _ in range(len(nums)):
             if nums[pt] == 0:
                 nums.pop(pt)
                 cnt += 1
