@@ -1,24 +1,28 @@
 class Solution:
     def decodeString(self, s: str) -> str:
-        stack = []
-        for i in range(len(s)):
-            if s[i] == ']':
-                string = ""
-                while stack:
-                    letter = stack.pop()
-                    if letter == '[':
-                        continue
-                    elif letter.isdigit():
-                        num = letter
-                        while stack and stack[-1].isdigit():
-                            num = stack.pop() + num
-                        for _ in range(int(num)):
-                            for j in range(len(string)):
-                                stack.append(string[::-1][j])
-                        # stack.append(string[::-1] * int(num))
-                        break
-                    else:
-                        string += letter
+        if not s: return s
+
+        currNum = 0
+        intStack = []
+        strStack = []
+
+        for x in s:
+            if x.isdigit():
+                currNum = (currNum * 10) + int(x)
             else:
-                stack.append(s[i])
-        return "".join(stack)
+                if x == '[':
+                    intStack.append(currNum)
+                    currNum = 0
+                    strStack.append(x)
+                elif x == ']':
+                    temp = ""
+                    while strStack and strStack[-1] != '[':
+                        temp = strStack.pop() + temp
+                    strStack.pop() # [ 제거
+                    num = intStack.pop()
+                    strStack.append(temp * num)
+                else:
+                    strStack.append(x)
+        
+        return "".join(strStack)
+            
