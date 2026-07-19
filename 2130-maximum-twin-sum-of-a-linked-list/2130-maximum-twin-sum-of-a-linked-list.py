@@ -5,18 +5,29 @@
 #         self.next = next
 class Solution:
     def pairSum(self, head: Optional[ListNode]) -> int:
-        length = 0
-        curr = head
-        while curr:
-            length += 1
-            curr = curr.next
+        # 중간 지점 찾기
+        slow = head
+        fast = head
+        while fast and fast.next:
+            slow = slow.next
+            fast = fast.next.next
         
-        sums = [0] * (length//2)
-        curr = head
-        for i in range(len(sums)):
-            sums[i] += curr.val
-            curr = curr.next
-        for i in range(len(sums)-1, -1, -1):
-            sums[i] += curr.val
-            curr = curr.next
-        return max(sums)
+        # slow 이후는 뒤집기
+        prev = None
+        curr = slow
+        while curr:
+            next_curr = curr.next
+            curr.next = prev
+            prev = curr
+            curr = next_curr
+        
+        # 이동하면서 최대 합 구하기
+        max_sum = 0
+        first = head
+        second = prev
+        while second:
+            max_sum = max(max_sum, first.val + second.val)
+            first = first.next
+            second = second.next
+        
+        return max_sum
