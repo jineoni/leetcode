@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1679-max-number-of-k-sum-pairs](https://github.com/jineoni/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/jineoni/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jineoni/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jineoni/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0394-decode-string](https://github.com/jineoni/leetcode/tree/main/0394-decode-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/jineoni/leetcode/tree/main/0735-asteroid-collision/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jineoni/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/jineoni/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -139,4 +141,5 @@ Collection of LeetCode questions to ace the coding interview!
 | [0206-reverse-linked-list](https://github.com/jineoni/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/jineoni/leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jineoni/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jineoni/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
