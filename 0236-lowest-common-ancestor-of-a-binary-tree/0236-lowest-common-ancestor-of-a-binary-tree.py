@@ -17,10 +17,7 @@ class Solution:
 
         if left and right:
             return node
-        elif left:
-            return left
-        elif right:
-            return right
-    
+        return left or right
+            
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
         return self.dfs(root, p, q)
