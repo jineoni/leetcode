@@ -11,9 +11,8 @@ class Solution:
         queue = deque([root])
         sums = []
         while queue:
-            nodeNums = len(queue)
             currSum = 0
-            for _ in range(nodeNums):
+            for _ in range(len(queue)):
                 curr = queue.popleft()
                 currSum += curr.val
                 if curr.left:
