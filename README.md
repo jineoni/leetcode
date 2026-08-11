@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/jineoni/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jineoni/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/jineoni/leetcode/tree/main/0437-path-sum-iii/) | Medium |
+| [0841-keys-and-rooms](https://github.com/jineoni/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/jineoni/leetcode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jineoni/leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/jineoni/leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jineoni/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/jineoni/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0841-keys-and-rooms](https://github.com/jineoni/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jineoni/leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jineoni/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
@@ -192,4 +194,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/jineoni/leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/jineoni/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0841-keys-and-rooms](https://github.com/jineoni/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 <!---LeetCode Topics End-->
