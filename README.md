@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/jineoni/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/jineoni/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0169-majority-element](https://github.com/jineoni/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/jineoni/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/jineoni/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/jineoni/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/jineoni/leetcode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/jineoni/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/jineoni/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/jineoni/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/jineoni/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0706-design-hashmap](https://github.com/jineoni/leetcode/tree/main/0706-design-hashmap/) | Easy |
@@ -98,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/jineoni/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/jineoni/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/jineoni/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0912-sort-an-array](https://github.com/jineoni/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/jineoni/leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
