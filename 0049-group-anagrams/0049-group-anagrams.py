@@ -6,10 +6,7 @@ class Solution:
         for s in strs:
             key = ''.join(sorted(s))
             hashmap[key].append(s)
-        ans = []
-        for k, v in hashmap.items():
-            ans.append(v)
-        return ans
+        return list(hashmap.values())
 
 
             
