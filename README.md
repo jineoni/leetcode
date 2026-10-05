@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/jineoni/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/jineoni/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/jineoni/leetcode/tree/main/0027-remove-element/) | Easy |
+| [0036-valid-sudoku](https://github.com/jineoni/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/jineoni/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/jineoni/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/jineoni/leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/jineoni/leetcode/tree/main/0001-two-sum/) | Easy |
+| [0036-valid-sudoku](https://github.com/jineoni/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/jineoni/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/jineoni/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/jineoni/leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/jineoni/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/jineoni/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
