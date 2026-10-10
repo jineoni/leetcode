@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/jineoni/leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/jineoni/leetcode/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/jineoni/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/jineoni/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/jineoni/leetcode/tree/main/0125-valid-palindrome/) | Easy |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/jineoni/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/jineoni/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/jineoni/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/jineoni/leetcode/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/jineoni/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0036-valid-sudoku](https://github.com/jineoni/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/jineoni/leetcode/tree/main/0049-group-anagrams/) | Medium |
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/jineoni/leetcode/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/jineoni/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/jineoni/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/jineoni/leetcode/tree/main/0169-majority-element/) | Easy |
