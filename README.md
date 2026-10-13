@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/jineoni/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/jineoni/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/jineoni/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jineoni/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/jineoni/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jineoni/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/jineoni/leetcode/tree/main/0169-majority-element/) | Easy |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jineoni/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/jineoni/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/jineoni/leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jineoni/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
