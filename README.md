@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/jineoni/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/jineoni/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0394-decode-string](https://github.com/jineoni/leetcode/tree/main/0394-decode-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/jineoni/leetcode/tree/main/0735-asteroid-collision/) | Medium |
@@ -205,12 +206,14 @@ Collection of LeetCode questions to ace the coding interview!
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/jineoni/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/jineoni/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0706-design-hashmap](https://github.com/jineoni/leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/jineoni/leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/jineoni/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/jineoni/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0649-dota2-senate](https://github.com/jineoni/leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/jineoni/leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
