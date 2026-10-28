@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0724-find-pivot-index](https://github.com/jineoni/leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/jineoni/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/jineoni/leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/jineoni/leetcode/tree/main/0853-car-fleet/) | Medium |
 | [0912-sort-an-array](https://github.com/jineoni/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/jineoni/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/jineoni/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/jineoni/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/jineoni/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/jineoni/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0853-car-fleet](https://github.com/jineoni/leetcode/tree/main/0853-car-fleet/) | Medium |
 | [0912-sort-an-array](https://github.com/jineoni/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/jineoni/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/jineoni/leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -209,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/jineoni/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/jineoni/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/jineoni/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+| [0853-car-fleet](https://github.com/jineoni/leetcode/tree/main/0853-car-fleet/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jineoni/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jineoni/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/jineoni/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -355,4 +358,5 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/jineoni/leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/jineoni/leetcode/tree/main/0853-car-fleet/) | Medium |
 <!---LeetCode Topics End-->
