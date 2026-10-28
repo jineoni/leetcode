@@ -5,12 +5,13 @@ class Solution:
         time = []
         for p, s in cars:
             time.append((target-p)/s)
-        curr = time.pop(0)
+
+        curr = time[0]
         fleet = 1
-        while time:
-            if curr < time[0]:
+        for t in time[1:]:
+            if curr < t:
                 fleet += 1
-            curr = max(curr, time.pop(0))
+                curr = t
         return fleet
 
 # [1, 1, 7, 3, 12]
