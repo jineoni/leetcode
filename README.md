@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/jineoni/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jineoni/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/jineoni/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## Array
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/jineoni/leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/jineoni/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jineoni/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/jineoni/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0278-first-bad-version](https://github.com/jineoni/leetcode/tree/main/0278-first-bad-version/) | Easy |
@@ -366,4 +368,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/jineoni/leetcode/tree/main/0278-first-bad-version/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/jineoni/leetcode/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
