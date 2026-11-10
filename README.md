@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0443-string-compression](https://github.com/jineoni/leetcode/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/jineoni/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0649-dota2-senate](https://github.com/jineoni/leetcode/tree/main/0649-dota2-senate/) | Medium |
+| [0771-jewels-and-stones](https://github.com/jineoni/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0844-backspace-string-compare](https://github.com/jineoni/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/jineoni/leetcode/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jineoni/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jineoni/leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0567-permutation-in-string](https://github.com/jineoni/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0706-design-hashmap](https://github.com/jineoni/leetcode/tree/main/0706-design-hashmap/) | Easy |
+| [0771-jewels-and-stones](https://github.com/jineoni/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/jineoni/leetcode/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/jineoni/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/jineoni/leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
