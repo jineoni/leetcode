@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/jineoni/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jineoni/leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/jineoni/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0495-teemo-attacking](https://github.com/jineoni/leetcode/tree/main/0495-teemo-attacking/) | Easy |
 | [0605-can-place-flowers](https://github.com/jineoni/leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/jineoni/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0706-design-hashmap](https://github.com/jineoni/leetcode/tree/main/0706-design-hashmap/) | Easy |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0495-teemo-attacking](https://github.com/jineoni/leetcode/tree/main/0495-teemo-attacking/) | Easy |
 | [0735-asteroid-collision](https://github.com/jineoni/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/jineoni/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1929-concatenation-of-array](https://github.com/jineoni/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
