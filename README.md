@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1002-find-common-characters](https://github.com/jineoni/leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jineoni/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/jineoni/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/jineoni/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jineoni/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/jineoni/leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/jineoni/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0771-jewels-and-stones](https://github.com/jineoni/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/jineoni/leetcode/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1002-find-common-characters](https://github.com/jineoni/leetcode/tree/main/1002-find-common-characters/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/jineoni/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/jineoni/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/jineoni/leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/jineoni/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -209,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/jineoni/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/jineoni/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/jineoni/leetcode/tree/main/0383-ransom-note/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/jineoni/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/jineoni/leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/jineoni/leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 ## Matrix
