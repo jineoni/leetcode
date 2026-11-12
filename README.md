@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0771-jewels-and-stones](https://github.com/jineoni/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0844-backspace-string-compare](https://github.com/jineoni/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/jineoni/leetcode/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
+| [1002-find-common-characters](https://github.com/jineoni/leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jineoni/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/jineoni/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jineoni/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0912-sort-an-array](https://github.com/jineoni/leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/jineoni/leetcode/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/jineoni/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1002-find-common-characters](https://github.com/jineoni/leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/jineoni/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/jineoni/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/jineoni/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -156,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0706-design-hashmap](https://github.com/jineoni/leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [0771-jewels-and-stones](https://github.com/jineoni/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/jineoni/leetcode/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
+| [1002-find-common-characters](https://github.com/jineoni/leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/jineoni/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/jineoni/leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/jineoni/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
