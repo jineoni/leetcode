@@ -1,17 +1,11 @@
 class Solution:
     def check(self, nums: list[int]) -> bool:
         n = len(nums)
-        if n == 1:
-            return True
-        
-        for x in range(n):
-            cnt = 0
-            for i in range(n):
-                if nums[(i+x)%n] <= nums[(i+x+1)%n]:
-                    cnt += 1
-                if cnt == n-1:
-                    return True
-        return False
+        cnt = 0
+        for i in range(n):
+            if nums[i] > nums[(i+1)%n]:
+                cnt += 1
+        return cnt <= 1
 
 
         # for i in range(len(nums)): # 0, 1, 2, 3, 4
