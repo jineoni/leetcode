@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/jineoni/leetcode/tree/main/1566-detect-pattern-of-length-m-repeated-k-or-more-times/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/jineoni/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/jineoni/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/jineoni/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1929-concatenation-of-array](https://github.com/jineoni/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/jineoni/leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/jineoni/leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
