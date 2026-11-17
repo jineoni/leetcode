@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jineoni/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0006-zigzag-conversion](https://github.com/jineoni/leetcode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/jineoni/leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0014-longest-common-prefix](https://github.com/jineoni/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/jineoni/leetcode/tree/main/0020-valid-parentheses/) | Easy |
