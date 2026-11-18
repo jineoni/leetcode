@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2085-count-common-words-with-one-occurrence](https://github.com/jineoni/leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/jineoni/leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/jineoni/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+| [2768-number-of-black-blocks](https://github.com/jineoni/leetcode/tree/main/2768-number-of-black-blocks/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2085-count-common-words-with-one-occurrence](https://github.com/jineoni/leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/jineoni/leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/jineoni/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+| [2768-number-of-black-blocks](https://github.com/jineoni/leetcode/tree/main/2768-number-of-black-blocks/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -414,4 +416,5 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/jineoni/leetcode/tree/main/1566-detect-pattern-of-length-m-repeated-k-or-more-times/) | Easy |
+| [2768-number-of-black-blocks](https://github.com/jineoni/leetcode/tree/main/2768-number-of-black-blocks/) | Medium |
 <!---LeetCode Topics End-->
