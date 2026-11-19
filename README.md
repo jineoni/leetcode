@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0008-string-to-integer-atoi](https://github.com/jineoni/leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0014-longest-common-prefix](https://github.com/jineoni/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/jineoni/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0038-count-and-say](https://github.com/jineoni/leetcode/tree/main/0038-count-and-say/) | Medium |
 | [0049-group-anagrams](https://github.com/jineoni/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/jineoni/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/jineoni/leetcode/tree/main/0125-valid-palindrome/) | Easy |
