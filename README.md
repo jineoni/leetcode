@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0228-summary-ranges](https://github.com/jineoni/leetcode/tree/main/0228-summary-ranges/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/jineoni/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/jineoni/leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0289-game-of-life](https://github.com/jineoni/leetcode/tree/main/0289-game-of-life/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/jineoni/leetcode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/jineoni/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/jineoni/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -236,11 +237,13 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/jineoni/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/jineoni/leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0289-game-of-life](https://github.com/jineoni/leetcode/tree/main/0289-game-of-life/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/jineoni/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/jineoni/leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0289-game-of-life](https://github.com/jineoni/leetcode/tree/main/0289-game-of-life/) | Medium |
 | [0495-teemo-attacking](https://github.com/jineoni/leetcode/tree/main/0495-teemo-attacking/) | Easy |
 | [0735-asteroid-collision](https://github.com/jineoni/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/jineoni/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
