@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jineoni/leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/jineoni/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0495-teemo-attacking](https://github.com/jineoni/leetcode/tree/main/0495-teemo-attacking/) | Easy |
+| [0498-diagonal-traverse](https://github.com/jineoni/leetcode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0605-can-place-flowers](https://github.com/jineoni/leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/jineoni/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0706-design-hashmap](https://github.com/jineoni/leetcode/tree/main/0706-design-hashmap/) | Easy |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/jineoni/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/jineoni/leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0289-game-of-life](https://github.com/jineoni/leetcode/tree/main/0289-game-of-life/) | Medium |
+| [0498-diagonal-traverse](https://github.com/jineoni/leetcode/tree/main/0498-diagonal-traverse/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/jineoni/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -248,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0059-spiral-matrix-ii](https://github.com/jineoni/leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0289-game-of-life](https://github.com/jineoni/leetcode/tree/main/0289-game-of-life/) | Medium |
 | [0495-teemo-attacking](https://github.com/jineoni/leetcode/tree/main/0495-teemo-attacking/) | Easy |
+| [0498-diagonal-traverse](https://github.com/jineoni/leetcode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0735-asteroid-collision](https://github.com/jineoni/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/jineoni/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/jineoni/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
