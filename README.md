@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0724-find-pivot-index](https://github.com/jineoni/leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/jineoni/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/jineoni/leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [0849-maximize-distance-to-closest-person](https://github.com/jineoni/leetcode/tree/main/0849-maximize-distance-to-closest-person/) | Medium |
 | [0853-car-fleet](https://github.com/jineoni/leetcode/tree/main/0853-car-fleet/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/jineoni/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0912-sort-an-array](https://github.com/jineoni/leetcode/tree/main/0912-sort-an-array/) | Medium |
