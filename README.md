@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jineoni/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/jineoni/leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/jineoni/leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2257-count-unguarded-cells-in-the-grid](https://github.com/jineoni/leetcode/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/jineoni/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2768-number-of-black-blocks](https://github.com/jineoni/leetcode/tree/main/2768-number-of-black-blocks/) | Medium |
 ## Greedy
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0059-spiral-matrix-ii](https://github.com/jineoni/leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0289-game-of-life](https://github.com/jineoni/leetcode/tree/main/0289-game-of-life/) | Medium |
 | [0498-diagonal-traverse](https://github.com/jineoni/leetcode/tree/main/0498-diagonal-traverse/) | Medium |
+| [2257-count-unguarded-cells-in-the-grid](https://github.com/jineoni/leetcode/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/jineoni/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -260,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0844-backspace-string-compare](https://github.com/jineoni/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/jineoni/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1929-concatenation-of-array](https://github.com/jineoni/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2257-count-unguarded-cells-in-the-grid](https://github.com/jineoni/leetcode/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/jineoni/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/jineoni/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Stack
