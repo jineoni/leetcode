@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/jineoni/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jineoni/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/jineoni/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/jineoni/leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/jineoni/leetcode/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/jineoni/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2768-number-of-black-blocks](https://github.com/jineoni/leetcode/tree/main/2768-number-of-black-blocks/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/jineoni/leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -228,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/jineoni/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jineoni/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jineoni/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/jineoni/leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -445,4 +448,9 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/jineoni/leetcode/tree/main/1566-detect-pattern-of-length-m-repeated-k-or-more-times/) | Easy |
 | [2768-number-of-black-blocks](https://github.com/jineoni/leetcode/tree/main/2768-number-of-black-blocks/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/jineoni/leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/jineoni/leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 <!---LeetCode Topics End-->
