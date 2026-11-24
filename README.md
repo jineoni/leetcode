@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/jineoni/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0649-dota2-senate](https://github.com/jineoni/leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/jineoni/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0722-remove-comments](https://github.com/jineoni/leetcode/tree/main/0722-remove-comments/) | Medium |
 | [0771-jewels-and-stones](https://github.com/jineoni/leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0844-backspace-string-compare](https://github.com/jineoni/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/jineoni/leetcode/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0605-can-place-flowers](https://github.com/jineoni/leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/jineoni/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0706-design-hashmap](https://github.com/jineoni/leetcode/tree/main/0706-design-hashmap/) | Easy |
+| [0722-remove-comments](https://github.com/jineoni/leetcode/tree/main/0722-remove-comments/) | Medium |
 | [0724-find-pivot-index](https://github.com/jineoni/leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/jineoni/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/jineoni/leetcode/tree/main/0739-daily-temperatures/) | Medium |
