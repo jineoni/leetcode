@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/jineoni/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0408-valid-word-abbreviation](https://github.com/jineoni/leetcode/tree/main/0408-valid-word-abbreviation/) | Easy |
 | [0443-string-compression](https://github.com/jineoni/leetcode/tree/main/0443-string-compression/) | Medium |
+| [0541-reverse-string-ii](https://github.com/jineoni/leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/jineoni/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/jineoni/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/jineoni/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/jineoni/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0443-string-compression](https://github.com/jineoni/leetcode/tree/main/0443-string-compression/) | Medium |
 | [0468-validate-ip-address](https://github.com/jineoni/leetcode/tree/main/0468-validate-ip-address/) | Medium |
+| [0541-reverse-string-ii](https://github.com/jineoni/leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/jineoni/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0649-dota2-senate](https://github.com/jineoni/leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/jineoni/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
