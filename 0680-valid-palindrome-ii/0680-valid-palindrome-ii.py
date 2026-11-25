@@ -1,18 +1,17 @@
 class Solution:
     def validPalindrome(self, s: str) -> bool:
-        left = 0
-        right = len(s) - 1
-
+        def check(left, right):
+            while left < right:
+                if s[left] != s[right]:
+                    return False
+                left += 1
+                right -= 1
+            return True
+        
+        left, right = 0, len(s)-1
         while left < right:
             if s[left] != s[right]:
-                skip_left = s[left + 1:right + 1]
-                skip_right = s[left:right]
-                return (
-                    skip_left == skip_left[::-1]
-                    or skip_right == skip_right[::-1]
-                )
-
-            left += 1
-            right -= 1
-
+                return check(left+1, right) or check(left, right-1)
+            left +=1
+            right -=1
         return True
