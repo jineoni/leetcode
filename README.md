@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0345-reverse-vowels-of-a-string](https://github.com/jineoni/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/jineoni/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/jineoni/leetcode/tree/main/0392-is-subsequence/) | Easy |
+| [0408-valid-word-abbreviation](https://github.com/jineoni/leetcode/tree/main/0408-valid-word-abbreviation/) | Easy |
 | [0443-string-compression](https://github.com/jineoni/leetcode/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/jineoni/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/jineoni/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/jineoni/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/jineoni/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0394-decode-string](https://github.com/jineoni/leetcode/tree/main/0394-decode-string/) | Medium |
+| [0408-valid-word-abbreviation](https://github.com/jineoni/leetcode/tree/main/0408-valid-word-abbreviation/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/jineoni/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0443-string-compression](https://github.com/jineoni/leetcode/tree/main/0443-string-compression/) | Medium |
 | [0468-validate-ip-address](https://github.com/jineoni/leetcode/tree/main/0468-validate-ip-address/) | Medium |
