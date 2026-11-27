@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0977-squares-of-a-sorted-array](https://github.com/jineoni/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/jineoni/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/jineoni/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1861-rotating-the-box](https://github.com/jineoni/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jineoni/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jineoni/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## String
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1679-max-number-of-k-sum-pairs](https://github.com/jineoni/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/jineoni/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/jineoni/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1861-rotating-the-box](https://github.com/jineoni/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1929-concatenation-of-array](https://github.com/jineoni/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jineoni/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/jineoni/leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0059-spiral-matrix-ii](https://github.com/jineoni/leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0289-game-of-life](https://github.com/jineoni/leetcode/tree/main/0289-game-of-life/) | Medium |
 | [0498-diagonal-traverse](https://github.com/jineoni/leetcode/tree/main/0498-diagonal-traverse/) | Medium |
+| [1861-rotating-the-box](https://github.com/jineoni/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/jineoni/leetcode/tree/main/2257-count-unguarded-cells-in-the-grid/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/jineoni/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## Simulation
