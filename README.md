@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/jineoni/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/jineoni/leetcode/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/jineoni/leetcode/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/jineoni/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/jineoni/leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/jineoni/leetcode/tree/main/0075-sort-colors/) | Medium |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/jineoni/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/jineoni/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/jineoni/leetcode/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/jineoni/leetcode/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/jineoni/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/jineoni/leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0035-search-insert-position](https://github.com/jineoni/leetcode/tree/main/0035-search-insert-position/) | Easy |
@@ -218,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/jineoni/leetcode/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/jineoni/leetcode/tree/main/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/jineoni/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/jineoni/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/jineoni/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
